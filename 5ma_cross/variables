@@ -1,0 +1,6 @@
+BINANCE BTC/USDT
+long_ma 10
+short_ma 5
+is_shorting true
+window 20
+ratio 0.01
